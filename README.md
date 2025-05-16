@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer, open-source enth
 ## 💬 Let's Connect
 
 - **LinkedIn**: (https://www.linkedin.com/in/omar-saunders/))
-- 
+  
 
 Feel free to reach out if you'd like to collaborate or just chat about tech!
 
