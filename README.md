@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer, open-source enth
 - **Languages**: Python, R, HCL
 - **Frameworks**: Flask, Djanjo, Tidyverse
 - **DevOps**: Docker, Kubernetes, GitHub Actions, Gitlab CI/CD, GCP, Azure , AWS (Coming 4th Quarter of 2025)
-- **Tools**: VsCode, Fedora, Red Hat, Docker, Kubernetes, Pycharm, Firebase Studio, Gemini ,Terraform 
+- **Tools**: VSCode, Fedora, Red Hat, Docker, Kubernetes, Pycharm, Firebase Studio, Gemini ,Terraform 
 
 ---
 
