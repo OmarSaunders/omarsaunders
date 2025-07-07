@@ -6,17 +6,16 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer, open-source enth
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: Python, R, HCL, Go
+- **Languages**: Python, R, Go
 - **Frameworks**: Flask, Djanjo, Tidyverse
 - **DevOps**: Terraform, Docker, Kubernetes, GitHub Actions, Gitlab CI/CD, GCP, Azure , AWS (Coming 4th Quarter of 2025)
-- **Tools**: VSCode, Fedora, Red Hat, Kubernetes, Pycharm, Firebase Studio, Gemini , Gemini Cli, Vertex AI
+- **Tools**: VSCode, Fedora, Red Hat, Pycharm, Firebase Studio, Gemini , Gemini Cli, Vertex AI
 
 ---
 
 ## 🌟 What I'm Working On
 
 - **Google Cloud*: Building Projects utilizing the super slept on Cloud Provider. 
-- **Open Source**: Contributing to projects that improve developer productivity.
 - **Side Projects***: Food Holiday Python App, Random Inspirational Quote Generator, AI Agent that webscrapes the web for Philadelphia Eagles related content, and other AI related projects to sharpen those skills. 
 - **Learning**: Artificial Intelligence, Cloud Security, Containerization & Orchestration
 
