@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer, open-source enth
 
 ## 🌟 What I'm Working On
 
-- **Google Cloud*: Building Projects utilizing the super slept on Cloud Provider. 
+- *Google Cloud*: Building Projects utilizing the super slept on Cloud Provider. 
 - **Side Projects***: Food Holiday Python App, Random Inspirational Quote Generator, AI Agent that webscrapes the web for Philadelphia Eagles related content, and other AI related projects to sharpen those skills. 
 - **Learning**: Artificial Intelligence, Cloud Security, Containerization & Orchestration
 
