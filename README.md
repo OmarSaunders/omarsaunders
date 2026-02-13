@@ -1,6 +1,6 @@
 # Hi there, my name is Omar Saunders 👋
 
-Welcome to my GitHub profile! I'm a passionate DevOps engineer, open-source enthusiast, and lifelong learner. I enjoy building software that makes an impact and collaborating with others on exciting projects.
+Welcome to my GitHub profile! I'm a passionate Platform engineer, open-source enthusiast, and lifelong learner. I enjoy building software that makes an impact and collaborating with others on exciting projects.
 
 ---
 
@@ -8,8 +8,8 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer, open-source enth
 
 - **Languages**: Python, R, Go
 - **Frameworks**: Flask, Djanjo, Tidyverse
-- **DevOps**: Terraform, Docker, Kubernetes, GitHub Actions, Gitlab CI/CD, GCP, Azure , AWS (Coming 4th Quarter of 2025)
-- **Tools**: VSCode, Fedora, Red Hat, Pycharm, Firebase Studio, Gemini , Gemini Cli, Vertex AI
+- **DevOps**: Terraform, Docker, Kubernetes, GitHub Actions, Gitlab CI/CD, GCP, Azure , AWS 
+- **Tools**: VSCode, Antigravit, Fedora, Red Hat, Pycharm, Firebase Studio Gemini Cli, Vertex AI
 
 ---
 
