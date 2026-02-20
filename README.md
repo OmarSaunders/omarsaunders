@@ -6,19 +6,19 @@ Welcome to my GitHub profile! I'm a passionate Platform engineer, open-source en
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: Python, R, Go
+- **Languages**: Python & R
 - **Frameworks**: Flask, Djanjo, Tidyverse
-- **DevOps**: Terraform, Docker, Kubernetes, GitHub Actions, Gitlab CI/CD, GCP, Azure , AWS 
-- **Tools**: VSCode, Antigravit, Fedora, Red Hat, Pycharm, Firebase Studio Gemini Cli, Vertex AI
+- **DevOps**: Terraform, Docker, Kubernetes, GitHub Actions, Gitlab CI/CD, GCP, AWS 
+- **Tools**: VSCode, Antigravity, Red Hat, Pycharm, Firebase Studio, Gemini ClI, and Vertex AI
 
 ---
 
 ## 🌟 What I'm Working On
 
-- **Google Cloud**: Building projects utilizing the super slept on Cloud Provider such as a Food Holiday App (coded with Python) that will tell you what today's food holiday is, CI/CD pipeline for an application thatI am working on
+- **Google Cloud**: Building projects utilizing the super slept on Cloud Provider such as a Food Holiday App (coded with Python) that will tell you what today's food holiday is, CI/CD pipeline for an application that I am working on
 - **AWS** Building projects such as Random Inspirational Quote Generator, Lambda workflows, and three tiered application for a personal project. 
 - **Side Projects**: Currently looking for Open Source Projects to assist with
-- **Learning**: Kubernetes, LLM's and and n8n automation
+- **Learning**: Kubernetes, LLM's and and GCP AI Agents
 
 ---
 
